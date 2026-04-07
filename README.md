@@ -120,15 +120,17 @@ Executes the program:
 
 # 🗂️ Project Structure
 
-
+```
 genz-compiler/
 │
-├── main.py # Entry point
-├── tokenizer.py # Tokenization logic
-├── parser.py # Parsing logic (AST)
-├── interpreter.py # Execution engine
-├── example.genz # Sample program
-└── README.md # Documentation
+├── main.py          # Entry point
+├── tokenizer.py     # Tokenization logic
+├── parser.py        # Parsing logic (AST)
+├── interpreter.py   # Execution engine
+├── example.genz     # Sample program
+└── README.md        # Documentation
+```
+
 
 
 ---
