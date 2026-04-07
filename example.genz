@@ -1,0 +1,27 @@
+# variable declaration
+yeh x hai 10
+yeh y hai 20
+
+# printing variables
+bol(x)
+bol(y)
+
+# printing string
+bol("Welcome to GenZ Language 😎")
+
+# boolean values
+yeh flag1 hai noCap
+yeh flag2 hai cap
+
+bol(flag1)
+bol(flag2)
+
+# more prints
+bol("noCap means true")
+bol("cap means false")
+
+# mix of string and variables
+bol("Value of x is:")
+bol(x)
+
+bol("Program executed successfully 💀")
