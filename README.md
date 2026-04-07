@@ -1,4 +1,4 @@
-# GenZ Language Compiler 😎
+# GenZ Language Compiler 
 
 A fun custom programming language built using GenZ + Indian slang to understand how compilers/interpreters work.
 
